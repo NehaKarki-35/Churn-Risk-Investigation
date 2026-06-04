@@ -1,0 +1,18 @@
+Around 26.58% customers churned, while 73.42% customers stayed, showing a moderate churn level that needs attention.
+Most customers are in the high monthly charges range (80–120), indicating the company mainly serves premium customers.
+Very few customers are in the low monthly charges range (20–40).
+High density in Total Charges (0–1000) suggests many customers are new or have low tenure.
+Early-stage customers are more likely to churn.
+Month-to-month contract customers show the highest churn rate.
+One-year and two-year contract customers have better retention.
+Low commitment contracts increase churn risk.
+Customers using electronic check payment methods show higher churn compared to card or bank transfer users.
+Electronic check users may have lower trust or weaker engagement with the company.
+Customers without tech support are more likely to churn.
+Customers without online security services show higher churn.
+Customers without device protection also have higher churn rates.
+Low service usage leads to lower customer engagement.
+Paperless billing users show slightly higher churn compared to non-paperless billing users.
+Paperless billing customers may be more flexible but less loyal.
+Customers with low engagement and fewer services are more likely to churn.
+Higher customer engagement improves customer retention.
